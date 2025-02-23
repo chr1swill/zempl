@@ -1,6 +1,6 @@
 # Zempl
 
-I honestly only made this template language because in I was have trouble doing the same thing in c and wanted to learn zig. Inspired by the the Golang html/template standard libary package, I have create simpler but effective html template language.
+I honestly only made this template language because I was have trouble doing the samething using C and wanted to learn zig. Inspired by the the Golang html/template standard libary package, I have create simpler but effective html template language.
 
 ## Ussage 
 
